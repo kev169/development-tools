@@ -1,0 +1,36 @@
+[submodule "shellcoding/shellforge4"]
+	path = shellcoding/shellforge4
+	url = https://github.com/whatsbcn/shellforge4.git
+[submodule "reversing/vivisect"]
+	path = reversing/vivisect
+	url = https://github.com/vivisect/vivisect.git
+[submodule "redteam/Throwback"]
+	path = redteam/Throwback
+	url = https://github.com/silentbreaksec/Throwback.git
+[submodule "redteam/ThrowbackLP"]
+	path = redteam/ThrowbackLP
+	url = https://github.com/silentbreaksec/ThrowbackLP.git
+[submodule "redteam/Empire"]
+	path = redteam/Empire
+	url = https://github.com/PowerShellEmpire/Empire.git
+[submodule "redteam/pupy"]
+	path = redteam/pupy
+	url = https://github.com/n1nj4sec/pupy.git
+[submodule "redteam/PowerSploit"]
+	path = redteam/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "reversing/HopperScripts"]
+	path = reversing/HopperScripts
+	url = git@github.com:kev169/HopperScripts.git
+[submodule "infogather/theHarvester"]
+	path = infogather/theHarvester
+	url = https://github.com/kev169/theHarvester.git
+[submodule "infogather/metagoofil"]
+	path = infogather/metagoofil
+	url = https://github.com/kev169/metagoofil.git
+[submodule "RandomScripts"]
+	path = RandomScripts
+	url = https://github.com/kev169/RandomScripts.git
+[submodule "redteam/meterssh"]
+	path = redteam/meterssh
+	url = https://github.com/trustedsec/meterssh.git
