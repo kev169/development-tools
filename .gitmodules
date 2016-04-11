@@ -21,7 +21,7 @@
 	url = https://github.com/PowerShellMafia/PowerSploit.git
 [submodule "reversing/HopperScripts"]
 	path = reversing/HopperScripts
-	url = git@github.com:kev169/HopperScripts.git
+	url = https://github.com/kev169/HopperScripts.git
 [submodule "infogather/theHarvester"]
 	path = infogather/theHarvester
 	url = https://github.com/kev169/theHarvester.git
