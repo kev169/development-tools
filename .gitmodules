@@ -34,3 +34,9 @@
 [submodule "redteam/meterssh"]
 	path = redteam/meterssh
 	url = https://github.com/trustedsec/meterssh.git
+[submodule "Shellcode"]
+	path = shellcoding/Shellcode
+	url = https://github.com/isislab/Shellcode.git
+[submodule "infogather/recon-ng"]
+	path = infogather/recon-ng
+	url = https://bitbucket.org/LaNMaSteR53/recon-ng.git
