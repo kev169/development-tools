@@ -40,3 +40,6 @@
 [submodule "infogather/recon-ng"]
 	path = infogather/recon-ng
 	url = https://bitbucket.org/LaNMaSteR53/recon-ng.git
+[submodule "redteam/EmPyre"]
+	path = redteam/EmPyre
+	url = https://github.com/adaptivethreat/EmPyre.git
